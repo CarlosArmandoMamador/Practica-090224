@@ -4,6 +4,8 @@
  */
 package com.mycompany.gitjub;
 
+import com.mycompany.gitjub.vidio;
+
 /**
  *
  * @author DELL
